@@ -22,7 +22,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=true&bg_color=1a120b&title_color=FFA727&text_color=e8dcc8&custom_title=Languages
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide=powershell,batchfile,html&hide_border=true&bg_color=1a120b&title_color=FFA727&text_color=e8dcc8&custom_title=Languages
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
