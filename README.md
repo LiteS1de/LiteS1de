@@ -40,7 +40,7 @@ I make music and I make games playable with friends.
 ### Activity
 
 <p align="center">
-  <img src="profile/top-langs.svg" alt="Top languages" height="165">
+  <img src="profile/languages.svg" alt="Top languages" height="165">
 </p>
 
 <picture>
