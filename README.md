@@ -15,7 +15,7 @@ Python / TypeScript developer from Moscow. I build backends, Telegram bots and s
 | **[Egging On Co-op](https://github.com/LiteS1de/egging-on-coop)** | Co-op mod for a single-player game: up to 4 players in one world, Steam invites, emotes, pings and Twitch viewer effects | C#, Unity, BepInEx, Harmony |
 | **Departament VPN** | Subscription service I co-founded: Telegram bot, Mini App, website and backend API, 9 servers in 8 countries, ~330 subscribers | TypeScript, Node.js, PostgreSQL, Prisma, React, Docker |
 | **Drawing quantity checker** | Counts concrete, rebar, cables and equipment straight from DWG and PDF drawings and checks them against the designer's bill of quantities. It found real mistakes, including ~7 t of missing rebar | Python, ezdxf, PyMuPDF, C# AutoCAD plugin, Claude API |
-| **huEVO** | A social network in the spirit of old VK, built by a team of 7. My part is infrastructure and CI/CD | Docker Compose, PostgreSQL, Nginx, GitHub Actions, Prometheus |
+| **huEVO** | A social network in the spirit of old VK, built by a team of 7. My part is infrastructure and CI/CD +multi-page design | Docker Compose, PostgreSQL, Nginx, GitHub Actions, Prometheus |
 | **Trading bot research** | A replay simulator (~1% off live trading) and a backtest system for a spot DCA bot, with 24/7 market data collection | TypeScript, Python, pandas, scikit-learn |
 | **n8n + AI automation** | A Telegram assistant that sorts messages into Notion, Calendar and Sheets, and a freelance order finder scored by an LLM | n8n, Python, PostgreSQL, LLM APIs |
 
